@@ -11,7 +11,18 @@ Doing research, I've been researching for about 5-6 hours now and i came to a co
 
 hours - +4
 
+---
 15th July, 2025 - 
 Did a little more research and finalised everything - the structure and layout of everything including the positioning of the parts etc. now time to search for all the crucial hard to find parts and start with the cad model.
 
 hours - +2
+
+--
+
+Started with Open Rocket - made a basic model of our rocket. Going to complete this tomorrow and simulate some test flights. signing off for today.
+hour - +2.5
+![Open Rocket](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de23775a91b247666d03ca95c841cff5d8a64bec_screenshot_2025-07-16_at_1.38.09___am.png)
+![Open Rocket](https://hc-cdn.hel1.your-objectstorage.com/s/v3/09037c414f543e91b96f8d16f6b7fd9bf22a2389_screenshot_2025-07-16_at_1.38.24___am.png)
+
+---
+
