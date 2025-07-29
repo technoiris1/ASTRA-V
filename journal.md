@@ -26,3 +26,8 @@ hour - +2.5
 
 ---
 
+29th July, 2025 - 
+Need to speedrun this project in the next 3 days. ran some simulations, things look good.
+
+![Open Rocket](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7d826fa916dcaf980aec910090bad755c58b76bc_screenshot_2025-07-22_at_12.32.55___am.png)
+![Open Rocket](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a9340abd8f7e2090bd551a7236ef5d5b808e048_screenshot_2025-07-22_at_12.33.06___am.png)
