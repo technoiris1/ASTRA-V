@@ -45,3 +45,9 @@ hours - +14
 
 ![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6a278e24489b7209372f84a830f54f0c1b13f5b7_screenshot_2025-07-31_at_8.48.29___pm.png)
 ![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/05f420220b2e25e54d8cca7f1f3828cd5bdd5a63_screenshot_2025-07-31_at_8.49.23___pm.png)
+
+--
+Completed the schematics - 
+![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f776903f97898415f5401254f62856af31d764ee_screenshot_2025-08-01_at_3.28.11___am.png)
+
+hours - +5
