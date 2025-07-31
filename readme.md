@@ -1,7 +1,8 @@
 # ASTRA-V
 
 heyo! Manan this side - this is my second big hardware project after my foldable 3d printer - ASTRA-V. Stands for Autonomous Stabilised Thrust Recovery Ascent Vehicle.
-
+![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6a278e24489b7209372f84a830f54f0c1b13f5b7_screenshot_2025-07-31_at_8.48.29___pm.png)
+![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/05f420220b2e25e54d8cca7f1f3828cd5bdd5a63_screenshot_2025-07-31_at_8.49.23___pm.png)
 The concept is simple - Go up - attain free fall - thrust again a lil when around 3 feet from the ground - land.
 
 Its using LiDars to calculate the height precisely and they are pretty quick, so no problems.
