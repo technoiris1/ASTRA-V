@@ -13,24 +13,24 @@ This very iteration of ASTRA-V has the following tasks - going up 15 feet, attai
 
 ## Launch
 ### Trigger
-    We are using a RF module to trigger the launch, it is in the flight controller.
+We are using a RF module to trigger the launch, it is in the flight controller.
 ### Process
-    The Solenoid Valve will be kicked by the flight controller - which will open the flow of the NO2 in the Parrafin Wax Chamber(We will come to the fuel part later on), and along with the solenoid valve - the spark plug will also be kicked which will burn the fuel. *sshhhhhhhhhhiiiiiiiiuuuuuuuuu* and with that the burnt fuel gases will come out pressurized of the nozzle and *shrrrooooommmm* the rockets up - it will go up 15 feet in this iteration.
+The Solenoid Valve will be kicked by the flight controller - which will open the flow of the NO2 in the Parrafin Wax Chamber(We will come to the fuel part later on), and along with the solenoid valve - the spark plug will also be kicked which will burn the fuel. *sshhhhhhhhhhiiiiiiiiuuuuuuuuu* and with that the burnt fuel gases will come out pressurized of the nozzle and *shrrrooooommmm* the rockets up - it will go up 15 feet in this iteration.
 
 
 ## Free fall
-    Pretty simple, once reached the desired height(15 feet here) the valve will be kicked to close. Thus no oxidiser - thus no thrust and no more going up. Then it will just fall down - tearing down the vigilantly through the air.
+Pretty simple, once reached the desired height(15 feet here) the valve will be kicked to close. Thus no oxidiser - thus no thrust and no more going up. Then it will just fall down - tearing down the vigilantly through the air.
 
 ## Landing
-    Now this is the special sauce, the complex thing - in simple words - LiDar sensors are highly sensitive sensors which mainly work on lasers so really quick. They will be sensing the altitude and sending it to the flight computer, now as soon as the altitude or around 3feet (in this case) is reached - the computer will kick up the solenoid and spark plug once again to push enough thrust to neutralise the G force attained in the freefall. So like - the whole rocket will have a gentle bounce in the air using thrusters. Now along with the engine mechanism, one more thing kicked would be the servo motors to deploy the landing legs - they have a really wide span as you can see in the images - so it gonna land really well.
+Now this is the special sauce, the complex thing - in simple words - LiDar sensors are highly sensitive sensors which mainly work on lasers so really quick. They will be sensing the altitude and sending it to the flight computer, now as soon as the altitude or around 3feet (in this case) is reached - the computer will kick up the solenoid and spark plug once again to push enough thrust to neutralise the G force attained in the freefall. So like - the whole rocket will have a gentle bounce in the air using thrusters. Now along with the engine mechanism, one more thing kicked would be the servo motors to deploy the landing legs - they have a really wide span as you can see in the images - so it gonna land really well.
 
 
 ## Flight Controller 
-    Flight controller is a custom made from scratch which uses STM32L052K8U6 as the MCU. It uses MPU-6050 as the Gyro and BMP-280 as the altimeter as its a barometer. It has pins for breakouts of all these things along with connections with landing servos, LiDar sensors, Solenoid valve and the Spark Plug.
+Flight controller is a custom made from scratch which uses STM32L052K8U6 as the MCU. It uses MPU-6050 as the Gyro and BMP-280 as the altimeter as its a barometer. It has pins for breakouts of all these things along with connections with landing servos, LiDar sensors, Solenoid valve and the Spark Plug.
 
 
 ## Fuel
-    It is using Paraffin wax as a fuel along with NO2 as the oxidiser. Pretty simple there is a chamber with granules of paraffin wax and a solenoid opening with NO2 chargers on the other side, I'm using whipped cream chargers for this task, they are pretty good and will come handy in this usecase.
+It is using Paraffin wax as a fuel along with NO2 as the oxidiser. Pretty simple there is a chamber with granules of paraffin wax and a solenoid opening with NO2 chargers on the other side, I'm using whipped cream chargers for this task, they are pretty good and will come handy in this usecase.
 here is the BOM - 
 
 
