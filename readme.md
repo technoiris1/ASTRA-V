@@ -43,6 +43,10 @@ here is the BOM -
 | Paraffin wax | Main fuel | ₹300 | 5 | ₹1,500 | 17.5$ | [Amazon India](https://www.amazon.in/Fully-Refined-Paraffin-Granules-White/dp/B09C4397P1) |
 | Carbon Fibre tube | Main body | ₹4,000 | 1 | ₹4,000 | 46$ | [Think Robotics](https://thinkrobotics.com/products/high-quality-3k-twill-roll-wrapped-carbon-fibre-hollow-round-tube-gloss?variant=45269902721341) |
 | LiDar sensor | To measure height quickly | ₹4,000 | 2 | ₹8,000 | 92$ | [Think Robotics](https://thinkrobotics.com/products/ydlidar-gs2-100-30-cm-lidar) |
-
+| BMP280 breakout | To measure height | ₹26 | 2 | ₹52 | 0.7$ | [Think Robotics](https://thinkrobotics.com/products/ydlidar-gs2-100-30-cm-lidar) |
+| AMS-1117 | converter breakout for pcb | ₹45 | 2 | ₹90 | 1.5$ | [Think Robotics](https://thinkrobotics.com/products/ydlidar-gs2-100-30-cm-lidar) |
+| 4.7K ohm resistor | for pcb | ₹40| 2 | ₹80 | 1$ | [Think Robotics](https://thinkrobotics.com/products/ydlidar-gs2-100-30-cm-lidar) |
+| capacitor | To measure height quickly | ₹4,000 | 2 | ₹8,000 | 92$ | [Think Robotics](https://thinkrobotics.com/products/ydlidar-gs2-100-30-cm-lidar) |
+(BOM is to be changed as im remaking the pcb)
 **Total Project Cost: --- **
 
