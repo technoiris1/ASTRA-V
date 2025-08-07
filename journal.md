@@ -51,3 +51,14 @@ Completed the schematics -
 ![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f776903f97898415f5401254f62856af31d764ee_screenshot_2025-08-01_at_3.28.11___am.png)
 
 hours - +5
+
+
+---
+
+August 1st and August 6th - 
+well while making this thing - i submitted it for an event but soon i realised that the pcb ive made is quite cooked, i should not use a stm as a first timer. so rn my goal is to remake this whole thing in the coming 3 days and ask for a rereview. lets see - these are the current things.
+
+![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d353d52df04e1eaece24cce61dbf0e1801a6d75c_screenshot_2025-08-07_at_6.38.21___pm.png)
+![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb7f380423163cb61dbd22e2e2b1c763a285ed61_screenshot_2025-08-07_at_6.38.35___pm.png)
+
+this pcb took around - 17 hrs
