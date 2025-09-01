@@ -8,7 +8,7 @@ The concept is simple - Go up - attain free fall - thrust again a lil when aroun
 Its using LiDars to calculate the height precisely and they are pretty quick, so no problems.
 
 
-First iteration - 
+First iteration -
 This very iteration of ASTRA-V has the following tasks - going up 15 feet, attaining a proper stable freefall and then land. Now the word *land* is the main thing, so like this is what the hardest part is - so lets discuss the whole thing step by step.
 
 ## Launch
@@ -25,14 +25,16 @@ Pretty simple, once reached the desired height(15 feet here) the valve will be k
 Now this is the special sauce, the complex thing - in simple words - LiDar sensors are highly sensitive sensors which mainly work on lasers so really quick. They will be sensing the altitude and sending it to the flight computer, now as soon as the altitude or around 3feet (in this case) is reached - the computer will kick up the solenoid and spark plug once again to push enough thrust to neutralise the G force attained in the freefall. So like - the whole rocket will have a gentle bounce in the air using thrusters. Now along with the engine mechanism, one more thing kicked would be the servo motors to deploy the landing legs - they have a really wide span as you can see in the images - so it gonna land really well.
 
 
-## Flight Controller 
+## Flight Controller
 Flight controller is a custom made from scratch which uses STM32L052K8U6 as the MCU. It uses MPU-6050 as the Gyro and BMP-280 as the altimeter as its a barometer. It has pins for breakouts of all these things along with connections with landing servos, LiDar sensors, Solenoid valve and the Spark Plug.
 
 
 ## Fuel
 It is using Paraffin wax as a fuel along with NO2 as the oxidiser. Pretty simple there is a chamber with granules of paraffin wax and a solenoid opening with NO2 chargers on the other side, I'm using whipped cream chargers for this task, they are pretty good and will come handy in this usecase.
-here is the BOM - 
+here is the BOM -
 
+# Why am I making this thing?
+I love making unconventional things - and i just love space. I always wanted to make a rocket, and but like making something which just goes up and gets on a parachute isn't real gravy. So I decided to make this, its a bit out of the normal model rockets. Thats pretty much it.
 
 
 | Name | Use case | Price Each (INR) | Units | Total Price (INR) | Total Price (USD) | Link |
@@ -49,4 +51,3 @@ here is the BOM -
 | capacitor | To measure height quickly | ₹4,000 | 2 | ₹8,000 | 92$ | [Think Robotics](https://thinkrobotics.com/products/ydlidar-gs2-100-30-cm-lidar) |
 (BOM is to be changed as im remaking the pcb)
 **Total Project Cost: --- **
-
