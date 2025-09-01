@@ -33,7 +33,7 @@ Flight controller is a custom made from scratch which uses STM32L052K8U6 as the 
 It is using Paraffin wax as a fuel along with NO2 as the oxidiser. Pretty simple there is a chamber with granules of paraffin wax and a solenoid opening with NO2 chargers on the other side, I'm using whipped cream chargers for this task, they are pretty good and will come handy in this usecase.
 here is the BOM -
 
-# Why am I making this thing?
+## Why am I making this thing?
 I love making unconventional things - and i just love space. I always wanted to make a rocket, and but like making something which just goes up and gets on a parachute isn't real gravy. So I decided to make this, its a bit out of the normal model rockets. Thats pretty much it.
 
 
