@@ -4,7 +4,7 @@ title: "ASTRA - Autonomous Stabilised Thrust Recovery Ascent"
 author: "Manan Sharma (@Manan)"
 description: "A basic paraffin powered rocket which goes up, falls down and lands on 4 legs."
 created_at: "2025-07-14"
-Total hours - 66 hrs
+Total hours - 77 hrs
 ---
 
 14th July, 2025 -
@@ -80,3 +80,14 @@ Continued with the schematics, also had to go through a lot of things which made
 ![SCH](/assets/SCH1.png)
 
 hours - +7
+
+
+---
+August 19th -
+ok so the thing is that we are on the verge of completing the pcb, i just routed everything and completed everything - might add some capacitors and decoupling caps for safety other than that the core thing is done. i decided to go with just gaseous fuel for now than a oxidiser and fuel thing - so we are using butane and not gonna use solenoid valves, we just gonna use canisters with a 3d printed apparatus which will push and spray the gas into a chamber via tube when servo motor pulls it, and the servo will be controlled with the flight contoller, yep so did research - routed everything and compiled the BOM. Just finishing touches left.
+
+![SCH](/assets/SCH2.png)
+![SCH](/assets/PCB1.png)
+![SCH](/assets/3D1.png)
+
+hours - +11
