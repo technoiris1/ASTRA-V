@@ -91,3 +91,12 @@ ok so the thing is that we are on the verge of completing the pcb, i just routed
 ![SCH](/assets/3D1.png)
 
 hours - +11
+
+
+---
+August 20th -
+hmmm SOOO the pcb is done, complete! yup so i made a system on what im gonna do with the fuel system as solenoid is something that cant be used with this pcb like this, so we made a setup to use a butane can and use a servo to press and release gas into a combustion chamber through a tube, and the servo will be controlled with the flight controller. yup so other thing is that i changed the thick 5v traces with a 5v plane finally, so we have two planes one for ground. So yeah PCB is done, added all the capacitors for all the components - 0.1uf ceramic at every component, 100uf electrolytic at every cluster of power consuming comps like servos and lidar, and 470uf electrolytic and a 10uf at the same place. We are using a 11.1v battery and a stepdown converter converting it to 5V which is powering the pico, servos and LiDar, and the 3v3 pin of the pico is powering MPU6050, BMP280 and the nrf module. Also added a few sketches and texts on the silkscreen - one is a rocket sketch i found online, one is GSLV - an indegenious launch vehicle developed by ISRO and a sketch of Neil Armstrong on the moon.
+![SCH](/assets/SCH3.png)
+![SCH](/assets/PCB2.png)
+![SCH](/assets/3D2.png)
+![SCH](/assets/3D3.png)
