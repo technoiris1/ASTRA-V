@@ -4,7 +4,7 @@ title: "ASTRA - Autonomous Stabilised Thrust Recovery Ascent"
 author: "Manan Sharma (@Manan)"
 description: "A basic paraffin powered rocket which goes up, falls down and lands on 4 legs."
 created_at: "2025-07-14"
-Total hours - 77 hrs
+Total hours - 83 hrs
 ---
 
 14th July, 2025 -
@@ -100,3 +100,5 @@ hmmm SOOO the pcb is done, complete! yup so i made a system on what im gonna do 
 ![SCH](/assets/PCB2.png)
 ![SCH](/assets/3D2.png)
 ![SCH](/assets/3D3.png)
+
+hours - +6
