@@ -9,7 +9,7 @@ Raspberry pi pico W,the main controller of the flight,700,2,1400,16,https://thin
 BMP280 breakout,the altimeter of the flight ctrl,70,2,140,2,https://thinkrobotics.com/products/bmp280-barometric-sensor-module-3-3v-5v?variant=32045116325974
 MPU 6050,gyro sensor,300,2,600,7,https://thinkrobotics.com/products/mpu6050-gyroscope-sensor?variant=16158094786632
 nrf module,trigger for rocket to go boom,80,2,160,2,https://roboticsdna.in/product/nrflongrenge24l01/
-pin headers,pin headers on pcb,11.5,20,250,3,
+pin headers,pin headers on pcb,11.5,20,250,3,https://thinkrobotics.com/products/single-row-2-54-mm-pitch-header-40-pin?variant=12744266055752
 battery,battery ,1900,1,1900,22,https://robocraze.com/products/bonka-2200mah-35c-3s1p-11-1v-lipo-battey?_pos=1&_sid=bea5fbb80&_ss=r
 battery charger,battery charger,350,1,350,4,https://robocraze.com/products/b3-pro-li-po-battery-charger?_pos=2&_sid=bea5fbb80&_ss=r
 0.1uf ceramic cap,on pcb,5,3,15,1,https://quartzcomponents.com/products/10000-pf-0-1uf-ceramic-capacitor?_pos=1&_sid=c9f6e0456&_ss=r
