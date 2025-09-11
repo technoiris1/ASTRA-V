@@ -26,7 +26,7 @@ Now this is the special sauce, the complex thing - in simple words - LiDar senso
 
 
 ## Flight Controller
-Flight controller is a custom made from scratch which uses STM32L052K8U6 as the MCU. It uses MPU-6050 as the Gyro and BMP-280 as the altimeter as its a barometer. It has pins for breakouts of all these things along with connections with landing servos, LiDar sensors, Solenoid valve and the Spark Plug.
+Flight controller is a custom made from scratch which uses Pi pico as the main board. It uses MPU-6050 as the Gyro and BMP-280 as the altimeter as its a barometer. It has pins for breakouts of all these things along with connections with landing servos, LiDar sensors, Solenoid valve and the Spark Plug.
 
 
 ## Fuel
