@@ -19,7 +19,7 @@ The Servo motor will be kicked by the flight controller - which will open the fl
 
 
 ## Free fall
-Pretty simple, once reached the desired height(15 feet here) the valve will be kicked to close. Thus no oxidiser - thus no thrust and no more going up. Then it will just fall down - tearing down the vigilantly through the air.
+Pretty simple, once reached the desired height(30 feet here) the valve will be kicked to close. Thus no oxidiser - thus no thrust and no more going up. Then it will just fall down - tearing down the vigilantly through the air.
 
 ## Landing
 Now this is the special sauce, the complex thing - in simple words - LiDar sensors are highly sensitive sensors which mainly work on lasers so really quick. They will be sensing the altitude and sending it to the flight computer, now as soon as the altitude or around 15 feet (in this case) is reached - the computer will kick up the servo and ignitor once again to push enough thrust to neutralise the G force attained in the freefall. So like - the whole rocket will have a gentle touchdown in the air using thrusters. Now along with the engine mechanism, one more thing kicked would be the servo motors to deploy the landing legs - they have a really wide span as you can see in the images - so it gonna land really well.
