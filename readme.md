@@ -32,6 +32,9 @@ Flight controller is a custom made from scratch which uses Pi pico as the main b
 ## Fuel
 It is using Acrylic as a fuel along with O2 as the oxidiser. Pretty simple there is a chamber with acrylic rod and a servo controlled apparatus for the input of oxygen into the chamber. So the burnt O2 will heat up and burn the Acrylic rod, thus the Acrylic vapours will move out really really quickly off the nozzle providing thrust.
 
+## Rocket motor and thrust vectoring
+I am working on a basic servo controlled thrust vectoring system to control the direction of the thrust. This will allow for more precise control of the rocket's trajectory. The servos will be fitted on two different rings, one ring with a servo will be connected to the tube body of rocket and it will rotate another ring inside it, which is housing another servo and that servo will be connected to a ring joint to the rocket motor. So in this way there will be a whole 2-axis thrust vectoring system. I am currently working on the design and 3d model, will put here as soon as i'm done.
+
 ## Why am I making this thing?
 cuz am crazy
 
