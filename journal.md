@@ -105,4 +105,9 @@ hours - +6
 
 ---
 September 13th -
-So yeah a big break, i was done with the initial design everything, then a while ago i felt like making a thrust vectoring system to ensure that it stays straight as I was 100% of it getting tilted, so yeah other than that - i also optimised the flight controller pcb
+So yeah a big break, i was done with the initial design everything, then a while ago i felt like making a thrust vectoring system to ensure that it stays straight as I was 100% of it getting tilted, so yeah other than that - i also optimised the flight controller pcb by a lot, I am done with the pcb now and below are the images, also yeah I got a 370$ grant to build this thing irl, so yeah im going to finalise everything tomorrow and then start ordering stuff.
+![PCB](/assets/PCB3.png)
+![PCB](/assets/3D4.png)
+![PCB](/assets/3D5.png)
+![PCB](/assets/3D6.png)
+![PCB](/assets/3D7.png)
