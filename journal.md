@@ -102,3 +102,7 @@ hmmm SOOO the pcb is done, complete! yup so i made a system on what im gonna do 
 ![SCH](/assets/3D3.png)
 
 hours - +6
+
+---
+September 13th -
+So yeah a big break, i was done with the initial design everything, then a while ago i felt like making a thrust vectoring system to ensure that it stays straight as I was 100% of it getting tilted, so yeah other than that - i also optimised the flight controller pcb

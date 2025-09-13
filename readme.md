@@ -27,7 +27,7 @@ Now this is the special sauce, the complex thing - in simple words - LiDar senso
 
 ## Flight Controller
 Flight controller is a custom made from scratch which uses Pi pico as the main board. It uses MPU-6050 as the Gyro and BMP-280 as the altimeter as its a barometer. It has pins for breakouts of all these things along with connections with landing servos, LiDar sensors, Fuel Servos and the Arc Ignitor. It has 7 motor connections, 2 LiDar, 1 for MPU6050 and BMP280 each, it has different capacitors placed overall for fluctuations etc.
-
+![pcb](assets/3D5.png)
 
 ## Fuel
 It is using Acrylic as a fuel along with O2 as the oxidiser. Pretty simple there is a chamber with acrylic rod and a servo controlled apparatus for the input of oxygen into the chamber. So the burnt O2 will heat up and burn the Acrylic rod, thus the Acrylic vapours will move out really really quickly off the nozzle providing thrust.
