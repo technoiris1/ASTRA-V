@@ -113,3 +113,13 @@ So yeah a big break, i was done with the initial design everything, then a while
 ![PCB](/assets/3D7.png)
 
 hours - +10
+
+
+
+---
+Build Journal -
+
+## entry 1
+got the PCB of the flight controller and soldered all the parts on it. i just soldered pin headers to connect the raspberry pi pico and other pin headers for different motors on it.
+![PCB](/assets/pcb1.jpeg)
+![PCB](/assets/pcb2.jpeg)
