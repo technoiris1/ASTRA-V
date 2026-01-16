@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../ASTRA_GERBER/",
+      "plot": "../../astra_final/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "ASTRA.step",

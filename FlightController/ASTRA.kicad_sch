@@ -3086,7 +3086,7 @@
 		(uuid "0d7074de-7995-4718-b900-ef39bdce6011")
 	)
 	(label "SERVO7_TVM"
-		(at 118.11 114.3 180)
+		(at 118.11 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3166,7 +3166,7 @@
 		(uuid "2b15969c-2261-403e-acc0-6e674178fc4c")
 	)
 	(label "SERVO6_SLN"
-		(at 118.11 132.08 180)
+		(at 118.11 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3184,16 +3184,6 @@
 			(justify right bottom)
 		)
 		(uuid "2d48f6c7-a7ba-4b8c-a012-95e589377d7b")
-	)
-	(label "GPIO_SLN"
-		(at 163.83 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "32a67198-a34f-41e2-975a-82ec9dbcb2bf")
 	)
 	(label "GND"
 		(at 128.27 69.85 90)
@@ -3226,7 +3216,7 @@
 		(uuid "37cf5409-8704-4fcd-981f-63852d639018")
 	)
 	(label "MOSI"
-		(at 118.11 124.46 180)
+		(at 118.11 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3335,6 +3325,16 @@
 		)
 		(uuid "5f0c6a5a-c4c9-4f4b-86de-5eb182bd8e40")
 	)
+	(label "GND"
+		(at 233.68 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61e26d8b-f75b-4134-962f-750cf880948d")
+	)
 	(label "5V"
 		(at 193.04 59.69 180)
 		(effects
@@ -3346,7 +3346,7 @@
 		(uuid "68bd10e0-eb22-41f4-ac5b-2c402f46e525")
 	)
 	(label "XMIT_L2"
-		(at 118.11 109.22 180)
+		(at 118.11 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3366,7 +3366,7 @@
 		(uuid "70086b33-e223-43b8-91d2-f635e4e3ea83")
 	)
 	(label "SERVO8_TVM"
-		(at 118.11 111.76 180)
+		(at 118.11 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3436,7 +3436,7 @@
 		(uuid "7b739ffb-75be-47ee-b731-f74fe5e2ec7d")
 	)
 	(label "CSN"
-		(at 118.11 119.38 180)
+		(at 118.11 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3476,7 +3476,7 @@
 		(uuid "8663734d-c925-466a-8c16-3cc009ec851e")
 	)
 	(label "CE"
-		(at 118.11 116.84 180)
+		(at 118.11 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3606,7 +3606,7 @@
 		(uuid "a3c2e3ef-5583-4f8c-b30a-c7f346b08036")
 	)
 	(label "SERVO5_LGT"
-		(at 118.11 134.62 180)
+		(at 118.11 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3706,7 +3706,7 @@
 		(uuid "bbc1e001-5135-49d7-9586-6352ffa7d80f")
 	)
 	(label "MISO"
-		(at 118.11 127 180)
+		(at 118.11 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3744,16 +3744,6 @@
 			(justify right bottom)
 		)
 		(uuid "c7c4ea2e-b72e-465b-b563-4cb829234ac7")
-	)
-	(label "GPIO_NCH"
-		(at 118.11 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d07c31e9-ba74-4f11-9a7b-608ad7c39043")
 	)
 	(label "5V"
 		(at 260.35 58.42 270)
@@ -3836,7 +3826,7 @@
 		(uuid "e14e6103-8ee6-46e1-af41-1ce69697dbec")
 	)
 	(label "SCK"
-		(at 118.11 121.92 180)
+		(at 118.11 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3854,6 +3844,16 @@
 			(justify right bottom)
 		)
 		(uuid "e510785d-c6f9-481c-8e48-1bcc8c78318f")
+	)
+	(label "5V"
+		(at 233.68 93.98 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e54d44b2-e5c7-41a8-8f4a-0150807910ed")
 	)
 	(label "GND"
 		(at 95.25 161.29 0)
@@ -3876,7 +3876,7 @@
 		(uuid "ea1c8b85-0e88-45fc-8307-6691feaf6b56")
 	)
 	(label "RCV_L2"
-		(at 118.11 106.68 180)
+		(at 118.11 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4188,7 +4188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 239.0648 68.58 0)
 			(effects
 				(font
@@ -4535,7 +4535,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 256.8448 81.28 0)
 			(effects
 				(font
@@ -4923,6 +4923,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 233.68 90.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "58796352-8c58-47d8-beb4-466b544134c3")
+		(property "Reference" "C6"
+			(at 237.49 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100uf"
+			(at 237.49 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+			(at 232.7148 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 233.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 233.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "81748f78-e3a1-4440-8c98-3ccd16cca8cc")
+		)
+		(pin "1"
+			(uuid "5d32607f-63de-4a28-839d-c5bb9329e3bc")
+		)
+		(instances
+			(project "ASTRA"
+				(path "/27797d85-b80b-4f85-af9d-7bbd95d91f09"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 248.92 35.56 0)
 		(unit 1)
@@ -5160,7 +5230,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 246.6848 24.13 0)
 			(effects
 				(font
@@ -6396,7 +6466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 259.3848 50.8 0)
 			(effects
 				(font
